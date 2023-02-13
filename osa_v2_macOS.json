@@ -2,7 +2,7 @@
   "name": "OSA V2",
   "vendorProductId": 1414201349,
   "macros": [
-    "{KC_LALT, KC_LSFT}",
+    "{KC_LALT,KC_LSFT}",
     "",
     "",
     "",
@@ -112,7 +112,7 @@
       "KC_F6",
       "KC_NO",
       "KC_MUTE",
-      "KC_TRNS",
+      "KC_CAPS",
       "KC_BRID",
       "KC_BRIU",
       "KC_TRNS",
@@ -348,5 +348,6 @@
       "KC_NO",
       "KC_NO"
     ]
-  ]
+  ],
+  "encoders": []
 }
